@@ -1,1 +1,8 @@
 j
+/.vs/WhatsappBusiness
+/Samples/WhatsAppBusinessCloudAPI.Web/bin/Debug/net8.0
+/Samples/WhatsAppBusinessCloudAPI.Web/obj
+/SharedLibrary/bin/Debug/net8.0
+/SharedLibrary/obj
+/WhatsappBusiness.CloudApi/bin/Debug
+/WhatsappBusiness.CloudApi/obj
